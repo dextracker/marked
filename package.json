@@ -1,0 +1,8 @@
+{
+  "name": "marked",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dextracker/marked.git",
+  "author": "Noah Khamliche <noah@0xproject.com>",
+  "license": "MIT"
+}
